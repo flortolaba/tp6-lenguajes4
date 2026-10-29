@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tp6-lenguajes4/static/css/main.0d34c454.css",
+    "main.js": "/tp6-lenguajes4/static/js/main.26f750ac.js",
+    "static/js/453.966a0f5f.chunk.js": "/tp6-lenguajes4/static/js/453.966a0f5f.chunk.js",
+    "index.html": "/tp6-lenguajes4/index.html",
+    "main.0d34c454.css.map": "/tp6-lenguajes4/static/css/main.0d34c454.css.map",
+    "main.26f750ac.js.map": "/tp6-lenguajes4/static/js/main.26f750ac.js.map",
+    "453.966a0f5f.chunk.js.map": "/tp6-lenguajes4/static/js/453.966a0f5f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d34c454.css",
+    "static/js/main.26f750ac.js"
+  ]
+}
